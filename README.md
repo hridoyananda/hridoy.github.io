@@ -1,6 +1,6 @@
 # Hridoyananda Saikia
 
-Welcome to my academic website! I'm a graduate student in mathematics in University of Manitoba passionate about Analysis and more specifically Operator Algebras. This website serves as a platform to share my research, publications, and academic journey.
+Welcome to my academic website! I'm a graduate student of Mathematics in University of Manitoba, passionate about Analysis and more specifically Operator Algebras. This website serves as a platform to share my research, publications, and academic journey.
 
 ## About Me
 
