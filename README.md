@@ -16,4 +16,4 @@ Welcome to my academic website! I'm a graduate student of Mathematics in Univers
 
 ### Preprints
 
--(with Raphaël Clouâtre) A boundary projection for the dilation order[ arXiv preprint](https://arxiv.org/abs/2310.17601)
+-(with Raphaël Clouâtre) A boundary projection for the dilation order.[ arXiv preprint](https://arxiv.org/abs/2310.17601)
