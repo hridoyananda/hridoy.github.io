@@ -1,6 +1,6 @@
 # Hridoyananda Saikia
 
-Welcome to my academic website! I'm a graduate student of Mathematics in University of Manitoba, passionate about Analysis and more specifically Operator Algebras. This website serves as a platform to share my research, publications, and academic journey.
+Welcome to my academic website! I'm a graduate student of Mathematics at the University of Manitoba, passionate about Analysis and more specifically Operator Algebras. This website serves as a platform to share my research, publications, and academic journey.
 
 ## About Me
 
@@ -9,6 +9,8 @@ Welcome to my academic website! I'm a graduate student of Mathematics in Univers
 - **Program:** Ph.D. student
 - **Email:** saikiah@myumanitoba.ca
 
+
+
 ## Research Interests
 
 - Operator Algebras
@@ -16,4 +18,5 @@ Welcome to my academic website! I'm a graduate student of Mathematics in Univers
 
 ### Preprints
 
--(with Raphaël Clouâtre) A boundary projection for the dilation order.[ arXiv preprint](https://arxiv.org/abs/2310.17601)
+- (with Raphaël Clouâtre) A boundary projection for the dilation order. [arXiv preprint](https://arxiv.org/abs/2310.17601)
+
