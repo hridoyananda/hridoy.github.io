@@ -4,7 +4,7 @@
 
 <div style="float:right; margin-left:20px;"> 
 
-    <img src="https://github.com/hridoyananda/hridoy.github.io/assets/149207025/87a8e64c-c470-4ced-90f0-5aec59e6f811" alt="Hridoyananda Saikia" style="width:300px;height:400px;"> 
+    https://github.com/hridoyananda/hridoy.github.io/issues/1#issue-2145333921
 
 </div> 
 
